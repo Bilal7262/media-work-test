@@ -1,0 +1,5 @@
+step 1: Run command "composer install"
+step 2: Run command "php artisan migrate"
+step 3: Run command "php artisan db:seed" for inserting data into tables
+step 4: Run command "php artisan serve" to serve the project locally on http://127.0.0.1:8000
+step 5: go to http://127.0.0.1:8000 and login with the creds => email:"bilalbashir95@gmail.com", password:"12345678"
